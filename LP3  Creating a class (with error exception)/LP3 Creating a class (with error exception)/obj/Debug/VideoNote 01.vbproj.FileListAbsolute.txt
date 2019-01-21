@@ -1,0 +1,11 @@
+C:\Users\lynette\AppData\Local\Temporary Projects\VideoNote 01\bin\Debug\VideoNote 01.exe.config
+C:\Users\lynette\AppData\Local\Temporary Projects\VideoNote 01\bin\Debug\VideoNote 01.exe
+C:\Users\lynette\AppData\Local\Temporary Projects\VideoNote 01\bin\Debug\VideoNote 01.pdb
+C:\Users\lynette\AppData\Local\Temporary Projects\VideoNote 01\bin\Debug\VideoNote 01.xml
+C:\Users\lynette\AppData\Local\Temporary Projects\VideoNote 01\obj\Debug\VideoNote 01.vbprojResolveAssemblyReference.cache
+C:\Users\lynette\AppData\Local\Temporary Projects\VideoNote 01\obj\Debug\VideoNote_01.Form1.resources
+C:\Users\lynette\AppData\Local\Temporary Projects\VideoNote 01\obj\Debug\VideoNote_01.Resources.resources
+C:\Users\lynette\AppData\Local\Temporary Projects\VideoNote 01\obj\Debug\VideoNote 01.vbproj.GenerateResource.Cache
+C:\Users\lynette\AppData\Local\Temporary Projects\VideoNote 01\obj\Debug\VideoNote 01.exe
+C:\Users\lynette\AppData\Local\Temporary Projects\VideoNote 01\obj\Debug\VideoNote 01.xml
+C:\Users\lynette\AppData\Local\Temporary Projects\VideoNote 01\obj\Debug\VideoNote 01.pdb
